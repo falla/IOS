@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<string>WiFi</string> <!--WiFi-->
+	<string>Data</string> <!--数据-->
+	<string>3G</string> <!--3G-->
+	<string>KillBackground</string> <!--清理后台-->
+	<string>HomeButton</string> <!--HOME键-->
+	<string>Airplane</string> <!--飞行模式-->
+	<string>Location</string> <!--定位-->
+	<string>Mute</string> <!--声音-->
+	<string>ClearBadge</string> <!--清除角标-->
+	<string>SleepButton</string> <!--锁屏-->
+	<string>Rotation</string> <!--旋转-->
+	<string>Backlight</string> <!--亮度-->
+	<string>AutoLock</string> <!--自动锁定-->
+	<string>Vibrate</string> <!--振动-->
+	<string>DND</string> <!--勿扰模式-->
+	<string>Flashlight</string> <!--手电筒-->
+	<string>Screenshot</string> <!--截屏-->
+	<string>Respring</string> <!--respring/注销-->
+	<string>Reboot</string> <!--重启-->
+	<string>Shutdown</string> <!--关机-->
+	<string>VＰN</string> <!--VPN-->
+	<string>Bluetooth</string> <!--蓝牙-->
+	<string>Hotspot</string> <!--个人热点-->
+	<string>Uicache</string> <!--修复白图标-->
+</array>
+</plist>
